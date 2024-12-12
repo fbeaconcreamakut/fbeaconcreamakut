@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fbeaconcreamakut
 - 👀 I’m interested in Minecraft Server Owner
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me yo ndak tau
 - 😄 Pronouns: he/him
